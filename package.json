@@ -1,0 +1,17 @@
+{
+  "name": "practice-claude-code",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "echo build OK",
+    "test": "jest",
+    "lint": "echo lint OK"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
