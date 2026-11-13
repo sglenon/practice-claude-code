@@ -1,0 +1,6 @@
+customer_id,account,region,is_current
+C01,Acme,North,1
+C02,Birch,South,1
+C03,Cedar,South,0
+C03,Cedar,North,1
+C04,Delta,South,1

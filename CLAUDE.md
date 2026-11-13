@@ -42,6 +42,7 @@ These restrictions are also enforced by the permission rules in `.claude/setting
 | Lint | `npm run lint` |
 | Single test file | `npm test -- --testPathPattern=<filename>` |
 | Python tests | `python3 -m unittest discover -s pyreport -v` |
+| Data | `python3 analysis/revenue_by_region.py` |
 
 ## Notes for Claude
 
