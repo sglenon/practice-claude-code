@@ -1,2 +1,4 @@
 node_modules/
 __pycache__/
+board/out/
+course/s1/coffee-board/*.html
