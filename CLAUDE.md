@@ -48,3 +48,4 @@ These restrictions are also enforced by the permission rules in `.claude/setting
 - If a command fails, report the full error. Do not silently retry.
 - If you are unsure about a file path or rule, ask before editing.
 - After any code change, run `npm test` and report the result.
+- For files in `server/`, run `python3 server/test_ops_db.py`, not `npm test`.

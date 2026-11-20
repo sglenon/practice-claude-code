@@ -9,7 +9,8 @@
       "Bash(python3 -m unittest *)"
     ],
     "ask": [
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "mcp__ops-db__run_select"
     ],
     "deny": [
       "Read(./.env)",
