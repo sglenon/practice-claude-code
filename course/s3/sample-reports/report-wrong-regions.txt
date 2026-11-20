@@ -1,0 +1,3 @@
+North	1800
+South	7100
+Total	8900

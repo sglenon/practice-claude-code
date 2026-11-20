@@ -1,0 +1,5 @@
+# Settings for the report-check agent.
+# tools must not include Bash, Edit or Write. This agent only reads.
+tools =
+# owner must be a real person's name or role. The script stops if this is empty.
+owner =
